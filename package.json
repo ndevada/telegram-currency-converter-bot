@@ -1,0 +1,23 @@
+{
+  "name": "telegram-currency-converter-bot",
+  "version": "1.0.0",
+  "description": "a simple chat bot on telegram for converting currency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndevada/telegram-currency-converter-bot.git"
+  },
+  "author": "Faishal Risfandi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ndevada/telegram-currency-converter-bot/issues"
+  },
+  "homepage": "https://github.com/ndevada/telegram-currency-converter-bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
